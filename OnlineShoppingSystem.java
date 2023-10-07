@@ -7,7 +7,6 @@ public class OnlineShoppingSystem {
 
     // List to store customer accounts
     private static List<Customer> customers = new ArrayList<>();
-
     public static void main(String[] args) {
         try {
             Scanner scanner = new Scanner(System.in);
